@@ -1,0 +1,5 @@
+
+- Make new ASP.NET Core Web Api project
+- Add Recipe model
+- Change ValuesController to RecipeController
+
